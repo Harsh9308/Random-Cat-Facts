@@ -1,0 +1,29 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2F0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D");
+    background-size:cover;
+    background-repeat:none;
+    font-family:cursive;
+    margin-left:3rem;
+    margin-top:3rem;
+}
+h1{
+    color:white;
+    font-size:5rem;
+}
+.badge{
+    background-color:bisque;
+    color:brown;
+    font-size:2rem;
+    padding:0.3rem 2rem;
+    border-radius:1rem;
+    transition: opacity .2s ease-in ;
+    box-shadow:3px 3px 5px goldenrod;
+    
+}
+.badge:hover{
+    opacity:0.5;
+}
+p{
+    color:white;
+    font-size:2rem;
+}
